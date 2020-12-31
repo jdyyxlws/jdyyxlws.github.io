@@ -1559,7 +1559,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content .highlight pre .comment,.abstract-content .highlight pre .quote,.article-entry .highlight pre .comment,.article-entry .highlight pre .quote {
-    color: #081a3a;
+    color: #2259b9;
     font-style: italic
 }
 
@@ -1572,7 +1572,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content .highlight pre .literal,.article-entry .highlight pre .literal {
-    color: #56b6c2
+    color: #2b41c0
 }
 
 .abstract-content .highlight pre .string,.abstract-content .highlight pre .regexp,.abstract-content .highlight pre .addition,.abstract-content .highlight pre .attribute,.abstract-content .highlight pre .meta-string,.article-entry .highlight pre .string,.article-entry .highlight pre .regexp,.article-entry .highlight pre .addition,.article-entry .highlight pre .attribute,.article-entry .highlight pre .meta-string {
@@ -1588,7 +1588,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content .highlight pre .symbol,.abstract-content .highlight pre .bullet,.abstract-content .highlight pre .link,.abstract-content .highlight pre .meta,.abstract-content .highlight pre .selector-id,.abstract-content .highlight pre .title,.article-entry .highlight pre .symbol,.article-entry .highlight pre .bullet,.article-entry .highlight pre .link,.article-entry .highlight pre .meta,.article-entry .highlight pre .selector-id,.article-entry .highlight pre .title {
-    color: #61aeee
+    color: #2b41c0
 }
 
 .abstract-content .highlight pre .emphasis,.article-entry .highlight pre .emphasis {
@@ -1931,7 +1931,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .index-post .abstract-content {
-    color: #9c9c9c;
+    color: #5d91df;
     font-size: 1rem;
     line-height: 1.6rem;
     font-weight: lighter;
@@ -2042,7 +2042,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 
 .post-body .intro-title,.about-body .intro-title {
     font: 4rem/5.3rem "Oswald-Regular";
-    color: #fff;
+    color: rgb(250, 189, 58);
     margin: 0
 }
 
