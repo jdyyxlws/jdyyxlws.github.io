@@ -340,7 +340,7 @@ ul,li {
 
 .intro-title,.intro-subtitle {
     font-family: "Oswald-Regular";
-    color: rgb(255, 222, 112);
+    color: rgb(241, 169, 74);
     margin: 0;
     opacity: 0;
     transition: all 0.5s ease-out 0s;
@@ -414,7 +414,7 @@ ul,li {
 
 .post-title a {
     white-space: nowrap;
-    color: rgba(0,0,0,0.8);
+    color: rgb(245, 175, 84);
     line-height: 100%;
     max-width: 100%;
     text-overflow: ellipsis;
@@ -438,7 +438,7 @@ ul,li {
 .blog-title a {
     vertical-align: top;
     white-space: nowrap;
-    color: #000;
+    color: rgb(241, 167, 55);
     font: 1rem/1rem "Oswald-Regular"
 }
 
@@ -515,7 +515,7 @@ ul,li {
 }
 
 .profile * {
-    color: #777
+    color: rgb(252, 181, 50)
 }
 
 .profile>*:last-child {
@@ -1123,7 +1123,7 @@ ul,li {
 }
 
 .copyright a {
-    color: #f75357
+    color: #8453f7
 }
 
 .power {
@@ -1487,7 +1487,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content code,.article-entry code {
-    background: #eee;
+    background: rgb(252, 203, 44);
     padding: 1px 0.4rem;
     border-radius: 2px;
     margin: 0 0.2rem;
@@ -1498,7 +1498,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
     background: none;
     text-shadow: none;
     padding: 0;
-    color: #657b83
+    color: #42c7fc
 }
 
 .abstract-content .highlight,.article-entry .highlight {
@@ -1554,7 +1554,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content .highlight,.abstract-content pre,.article-entry .highlight,.article-entry pre {
-    color: #102d64;
+    color: #195cd8;
     background: #282c34
 }
 
@@ -1606,7 +1606,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 .abstract-content .gist,.article-entry .gist {
     margin: 0 -20px;
     border-style: solid;
-    border-color: #ddd;
+    border-color: rgb(245, 179, 36);
     border-width: 1px 0;
     background: #272822;
     padding: 15px 20px 15px 0
@@ -2304,7 +2304,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
     margin: 1.5em 0 1.5rem 0;
     padding: 10px 20px;
     position: relative;
-    background-color: #f6f6f6;
+    background-color: #f7ae28;
     border-left: 3px solid #f75357
 }
 
@@ -2314,7 +2314,7 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 
 .abstract-content .table-container table,.abstract-content>table,.article-entry .table-container table,.article-entry>table {
     width: 100%;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(248, 195, 97);
     margin: 1rem 0;
     border-collapse: collapse;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.125)
@@ -2325,11 +2325,11 @@ html::-webkit-scrollbar-track:hover,.sidebar-panel-archives::-webkit-scrollbar-t
 }
 
 .abstract-content .table-container table thead tr,.abstract-content>table thead tr,.article-entry .table-container table thead tr,.article-entry>table thead tr {
-    background: #f8f8f8
+    background: #f0ac46
 }
 
 .abstract-content .table-container table tbody tr:hover,.abstract-content>table tbody tr:hover,.article-entry .table-container table tbody tr:hover,.article-entry>table tbody tr:hover {
-    background: #efefef
+    background: #f0ac46
 }
 
 .abstract-content .table-container table td,.abstract-content .table-container table th,.abstract-content>table td,.abstract-content>table th,.article-entry .table-container table td,.article-entry .table-container table th,.article-entry>table td,.article-entry>table th {
